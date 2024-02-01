@@ -1,0 +1,12 @@
+-
+  name: ups
+  label: UPS
+  group: other
+-
+  name: fedex
+  label: FedEx
+  group: other
+-
+  name: dhl
+  label: DHL
+  group: other
