@@ -1,53 +1,81 @@
 -
-  name: ups
-  label: UPS
+  name: canadapost_symbol
+  label: Canada Post
   group: other
 -
-  name: usps
-  label: USPS
+  name: canadapost
+  label: Canada Post
   group: other
 -
-  name: sendle
-  label: Sendle
+  name: chronopost_symbol
+  label: Chronopost
   group: other
   
 -
-  name: poste-italiane
-  label: PosteItaliane
+  name: chronopost_symbol
+  label: Chronopost
   group: other
 -
-  name: mondial-relay
-  label: MondialRelay
-  group: other
--
-  name: fedex
-  label: Fedex
-  group: other
--
-  name: evri
-  label: Evri
-  group: other
--
-  name: dpd
-  label: Dpd
-  group: other
--
-  name: dhl
-  label: DHL
-  group: other
--
-  name: correos
-  label: Correos
+  name: colissimo_symbol
+  label: Colissimo
   group: other
 -
   name: colissimo
   label: Colissimo
   group: other
 -
-  name: chronopost
-  label: Chronopost
+  name: correos_symbol
+  label: Correos
   group: other
 -
-  name: canadapost
-  label: CanadaPost
+  name: correos
+  label: Correos
+  group: other
+-
+  name: dhl
+  label: DHL
+  group: other
+-
+  name: dpd_symbol
+  label: DPD
+  group: other
+-
+  name: dpd
+  label: DPD
+  group: other
+-
+  name: evri
+  label: Evri
+  group: other
+-
+  name: fedex
+  label: Fedex
+  group: other
+-
+  name: mondialrelay_symbol
+  label: Mondial Relay
+  group: other
+-
+  name: mondialrelay
+  label: Mondial Relay
+  group: other
+-
+  name: posteitaliane
+  label: Poste Italiane
+  group: other
+-
+  name: sendle
+  label: Sendle
+  group: other
+-
+  name: ups
+  label: UPS
+  group: other
+-
+  name: usps_symbol
+  label: USPS
+  group: other
+-
+  name: usps
+  label: USPS
   group: other
