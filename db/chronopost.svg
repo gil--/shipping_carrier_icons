@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-chronopost"><title id="pi-chronopost">Chronopost</title>
 <style type="text/css">
-	.st0{fill:#CE0F4C;}
-	.st1{fill:#FFFFFF;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#CE0F4C;}
 	.st2{fill:#C7BCAF;}
 	.st3{fill:#EFDC00;}
 	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#254F9E;}
@@ -9,8 +9,9 @@
 	.st6{fill:#193D6B;}
 	.st7{fill:url(#SVGID_1_);}
 	.st8{fill:#444244;}
-	.st9{fill:url(#SVGID_00000135648725999900842470000015996979143456227465_);}
+	.st9{fill:url(#SVGID_00000174585082440602141610000016378453601416211371_);}
 </style>
+<rect class="st0" width="38" height="24"/>
 <g>
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="22.9627" y1="5.2497" x2="14.736" y2="11.8203">
 		<stop  offset="2.064656e-07" style="stop-color:#449ED7"/>
