@@ -3,10 +3,51 @@
   label: UPS
   group: other
 -
+  name: usps
+  label: USPS
+  group: other
+-
+  name: sendle
+  label: Sendle
+  group: other
+  
+-
+  name: poste-italiane
+  label: PosteItaliane
+  group: other
+-
+  name: mondial-relay
+  label: MondialRelay
+  group: other
+-
   name: fedex
-  label: FedEx
+  label: Fedex
+  group: other
+-
+  name: evri
+  label: Evri
+  group: other
+-
+  name: dpd
+  label: Dpd
   group: other
 -
   name: dhl
   label: DHL
+  group: other
+-
+  name: correos
+  label: Correos
+  group: other
+-
+  name: colissimo
+  label: Colissimo
+  group: other
+-
+  name: chronopost
+  label: Chronopost
+  group: other
+-
+  name: canadapost
+  label: CanadaPost
   group: other
