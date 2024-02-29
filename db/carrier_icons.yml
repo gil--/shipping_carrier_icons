@@ -79,3 +79,47 @@
   name: usps
   label: USPS
   group: other
+-
+  name: aramex
+  label: Aramex
+  group: other
+-
+  name: bpost
+  label: Bpost
+  group: other
+-
+  name: budbee
+  label: Budbee
+  group: other
+-
+  name: dao
+  label: DAO Distribution
+  group: other
+-
+  name: gls
+  label: General Logistics Systems
+  group: other
+-
+  name: instabox
+  label: Instabox
+  group: other
+-
+  name: israelpost
+  label: Israel Post
+  group: other
+-
+  name: laposte
+  label: La Poste
+  group: other
+-
+  name: postnl
+  label: PostNL
+  group: other
+-
+  name: royalmail
+  label: Royal Mail
+  group: other
+-
+  name: swish
+  label: Swish
+  group: wallets
