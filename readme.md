@@ -29,6 +29,9 @@
 | USPS | ![usps](/svg/usps.svg) ![usps](/svg/usps_symbol.svg) |	United States |
 
 ## Payment method icons
+
+| Payment provider | Icon | Country |
+| ----------- | -- | ----------- |
 | Swish | ![usps](/svg/swish.svg) |	Sweden |
 
 ## Supported by
