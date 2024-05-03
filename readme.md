@@ -5,27 +5,33 @@
 | Carrier      | Icon | Country |
 | ----------- | -- | ----------- |
 | Aramex | ![aramex](/svg/aramex.svg) |	UAE |
-| Bpost | ![bpost](/svg/bpost.svg) |	Belgium |
+| Bpost | ![bpost](/svg/bpost.svg) | Belgium |
 | Budbee | ![budbee](/svg/budbee.svg) |	Sweden |
 | Canada Post | ![canadapost](/svg/canadapost.svg) ![canadapost](/svg/canadapost_symbol.svg) | Canada |
-| Chronopost | ![chronopost](/svg/chronopost.svg) ![chronopost](/svg/chronopost_symbol.svg) |	France |
-| Colissimo | ![colissimo](/svg/colissimo.svg) ![colissimo](/svg/colissimo_symbol.svg) |	France |
+| Chronopost | ![chronopost](/svg/chronopost.svg) ![chronopost](/svg/chronopost_symbol.svg) | France |
+| Colissimo | ![colissimo](/svg/colissimo.svg) ![colissimo](/svg/colissimo_symbol.svg) | France |
 | Correos | ![correos](/svg/correos.svg)  ![correos](/svg/correos_symbol.svg) |	Spain |
 | dao | ![dao](/svg/dao.svg) | Denmark |
 | DHL | ![dhl](/svg/dhl.svg) | United States |
 | DPD | ![dpd](/svg/dpd.svg) ![dpd](/svg/dpd_symbol.svg) | United Kingdom |
-| Evri | ![evri](/svg/evri.svg) |	United Kingdom |
+| Evri | ![evri](/svg/evri.svg) | United Kingdom |
 | FedEx | ![fedex](/svg/fedex.svg) | United States |
 | GLS | ![gls](/svg/gls.svg) | Denmark |
+| Helthjem | ![helthjem](/svg/helthjem.svg) | Norway |
 | Instabox | ![instabox](/svg/instabox.svg) | Denmark |
 | Israel Post | ![israelpost](/svg/israelpost.svg) | Israel |
 | La Poste | ![laposte](/svg/laposte.svg) | France |
 | Mondial Relay | ![mondial](/svg/mondialrelay.svg) ![mondial](/svg/mondialrelay_symbol.svg) | France |
+| Naqel Express | ![naqelexpress](/svg/naqelexpress.svg) | Saudi Arabia |
+| Porterbuddy | ![porterbuddy](/svg/porterbuddy.svg) | Norway |
 | Poste Italiane | ![dhl](/svg/posteitaliane.svg) |	Italy |
-| Post NL | ![postnl](/svg/postnl.svg) |	Netherlands |
-| Royal Mail | ![royalmail](/svg/royalmail.svg) |	United Kingdom |
+| Posten | ![posten](/svg/posten.svg) |	Norway |
+| Post NL | ![postnl](/svg/postnl.svg) | Netherlands |
+| Postnord | ![postnord](/svg/postnord.svg) | Sweden |
+| Royal Mail | ![royalmail](/svg/royalmail.svg) | United Kingdom |
 | Sendle | ![sendle](/svg/sendle.svg) |	Australia | 
-| UPS | ![ups](/svg/ups.svg) |	United States | 
+| SMSA Express | ![smsaexpress](/svg/smsaexpress.svg) | Saudi Arabia | 
+| UPS | ![ups](/svg/ups.svg) | United States | 
 | USPS | ![usps](/svg/usps.svg) ![usps](/svg/usps_symbol.svg) |	United States |
 
 ## Payment method icons

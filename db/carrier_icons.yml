@@ -123,3 +123,28 @@
   name: swish
   label: Swish
   group: wallets
+-
+  name: helthjem
+  label: Helthjem
+  group: other
+-
+  name: naqelexpress
+  label: Naqel Express
+  group: other
+-
+  name: porterbuddy
+  label: Porterbuddy
+  group: other
+-
+  name: posten
+  label: Posten
+  group: other
+-
+  name: postnord
+  label: Postnord
+  group: other
+-
+  name: smsaexpress
+  label: SMSA Express
+  group: other
+-
